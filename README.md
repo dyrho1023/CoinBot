@@ -26,5 +26,5 @@ Slack
    
  송부된 정보 형태
  
-   <img src="https://user-images.githubusercontent.com/76577003/232286428-c9ae9bf0-3a0b-4c54-8942-9199b66f1cc8.png" width="500" height="500"/>
+   <img src="https://user-images.githubusercontent.com/76577003/232286428-c9ae9bf0-3a0b-4c54-8942-9199b66f1cc8.png" width="500" height="480"/>
 
